@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.re-dylan.xyz/sitemap.xml
+Sitemap: https://re-dylan.com/sitemap.xml

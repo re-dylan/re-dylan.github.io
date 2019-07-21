@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dylan&#39;s Home Site</title>
-    <link>https://www.re-dylan.xyz/tags/</link>
+    <link>https://re-dylan.com/tags/</link>
     <description>Recent content in Tags on Dylan&#39;s Home Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://www.re-dylan.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://re-dylan.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
