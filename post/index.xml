@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dylan&#39;s Home Site</title>
+    <link>https://www.re-dylan.xyz/post/</link>
+    <description>Recent content in Posts on Dylan&#39;s Home Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 11 Sep 2018 22:14:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.re-dylan.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Live2d</title>
+      <link>https://www.re-dylan.xyz/post/live2d/</link>
+      <pubDate>Tue, 11 Sep 2018 22:14:59 +0800</pubDate>
+      
+      <guid>https://www.re-dylan.xyz/post/live2d/</guid>
+      <description>Live2d 相关 Live2D是一种应用于电子游戏的绘图渲染技术，技术由日本Cybernoids公司开发。通过一系列的连续图像和人物建模来生成一种类似三</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://www.re-dylan.xyz/post/hugo/</link>
+      <pubDate>Tue, 11 Sep 2018 21:54:11 +0800</pubDate>
+      
+      <guid>https://www.re-dylan.xyz/post/hugo/</guid>
+      <description>&lt;h1 id=&#34;简介&#34;&gt;简介&lt;/h1&gt;
+
+&lt;p&gt;本站是采用 &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt; 生成，采用 &lt;a href=&#34;https://github.com/olOwOlo/hugo-theme-even&#34;&gt;even&lt;/a&gt; 主题，并在上面添加 &lt;a href=&#34;https://github.com/xiazeyu/live2d-widget.js&#34;&gt;live2d&lt;/a&gt; 插件。^_^&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
