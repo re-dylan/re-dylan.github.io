@@ -1,0 +1,5 @@
+#! /bin/sh
+DIR=/opt/www/re-dylan/
+
+hugo && rsync -avz --delete public/ dylan:${DIR}
+

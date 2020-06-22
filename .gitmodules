@@ -1,0 +1,6 @@
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/re-dylan/hugo-theme-even.git
+[submodule "public"]
+	path = public
+	url = https://re-dylan@github.com/re-dylan/re-dylan.github.io.git
