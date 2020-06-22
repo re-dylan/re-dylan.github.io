@@ -2,7 +2,7 @@
 title: "Even"
 date: 2018-09-11T22:16:04+08:00
 lastmod: 2018-09-11T22:16:04+08:00
-draft: true
+draft: false
 keywords: []
 description: ""
 tags: []
@@ -14,3 +14,4 @@ live2d:
 ---
 
 <!--more-->
+https://github.com/marketplace/actions/hugo-setup
